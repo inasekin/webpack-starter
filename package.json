@@ -39,7 +39,7 @@
     "prettier": "^3.2.5",
     "raw-loader": "^4.0.2",
     "sass": "^1.71.1",
-    "sass-loader": "^14.1.1",
+    "sass-loader": "^16.0.4",
     "style-loader": "^3.3.4",
     "url-loader": "^4.1.1",
     "webpack": "^5.90.3",
